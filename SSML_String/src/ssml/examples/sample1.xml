@@ -1,0 +1,5 @@
+<speak>
+  Hello <sub alias="NYC">New York City</sub> fans!
+  <break time="500ms" /> This is a quick demo.
+  <p>We love <emphasis>Speechify</emphasis>!</p>
+</speak>
